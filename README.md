@@ -4,6 +4,8 @@ This repo contains the indexer for [Velodrome V2](https://velodrome.finance/) an
 [Aerodrome](https://aerodrome.finance/) across multiple chains.
 The indexer is written in TypeScript using the Envio indexing platform.
 
+# chalja gandu envio
+
 ## Project Structure
 
 - `config.yaml` - Defines contracts to index and events to track across multiple chains
